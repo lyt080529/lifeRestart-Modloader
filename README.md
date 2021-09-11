@@ -4,6 +4,10 @@
 
 English | [简体中文](./README-zh_CN.md)
 
+## 该Modloader 还暂时未实现！
+
+## 计划为自行clone并添加mod的方式来load
+
 ## Introduction
 
 - Game Life Restart
